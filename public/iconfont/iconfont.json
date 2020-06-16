@@ -1,0 +1,58 @@
+{
+  "id": "1886733",
+  "name": "profile-card",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1244195",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "1244198",
+      "name": "Facebook",
+      "font_class": "Facebook",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "1244201",
+      "name": "Instagram",
+      "font_class": "Instagram",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "1244207",
+      "name": "知乎",
+      "font_class": "zhihu",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "1244209",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "14465129",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "348533",
+      "name": "git",
+      "font_class": "git",
+      "unicode": "eaf5",
+      "unicode_decimal": 60149
+    }
+  ]
+}
